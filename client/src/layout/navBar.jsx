@@ -31,9 +31,7 @@ export default function NavBar() {
                         </Typography>
                         
                     </Box>
-                    <Box sx={{ display: { xs: 'block', sm: 'none' } }}>
-                        <Button sx={{ color: '#333' }}>Menu</Button>
-                    </Box>
+                 
                 </Toolbar>
             </AppBar>
             <Toolbar />

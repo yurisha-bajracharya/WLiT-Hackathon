@@ -60,7 +60,7 @@ function MusicApp() {
   );
 
   return (
-    <Box sx={{ display: "flex", flexDirection: "column", minHeight: "100vh", backgroundColor: "#f7f8fc" }}>
+    <Box sx={{ display: "flex", flexDirection: "column" }}>
        <Toolbar>
           {/* Menu Icon for Drawer */}
           <IconButton
